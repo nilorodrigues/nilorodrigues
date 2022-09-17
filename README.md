@@ -12,7 +12,7 @@
 
 ##
 <div align="center">
-      <a href="https://github.com/rafaballerini">
+      <a href="https://github.com/nilorodrigues">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nilorodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilorodrigues&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -20,19 +20,14 @@
 <br>
    
  ## 
-<div align="center"> 	
-    <a target="_blank"  href="https://discord.com/users/5711290970972671049729">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+<div align="center">
+    <a  href="https://discord.com/users/5711290970972671049729">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" >
     </a> 
     
-    <a href = "mailto:niloeleuterio@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    
-    <a target="_blank" href="https://www.linkedin.com/in/nilorodriguez1991/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a> 
-</div>
+   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
+    <a href="https://www.linkedin.com/in/nilorodriguez1991/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    </div>
   
   
 
